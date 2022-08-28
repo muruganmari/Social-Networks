@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "email": "murugan@gmail.com",
+      "username": "mack",
+      "password": "mohanamari98",
+      "id": 1
+    },
+    {
+      "email": "mohana@gmail.com",
+      "username": "mohana",
+      "password": "mohanamari98",
+      "id": 2
+    }
+  ],
+  "posts": []
+}
